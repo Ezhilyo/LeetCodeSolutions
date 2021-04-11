@@ -1,3 +1,4 @@
+# split the string into two and count the total values. If they're equal return true else false
 class Solution:
     def halvesAreAlike(self, s: str) -> bool:
         n = len(s)
